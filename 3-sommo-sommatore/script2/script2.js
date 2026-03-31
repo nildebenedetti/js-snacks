@@ -18,7 +18,7 @@ console.log(`Lo sapevo, ecco ${primaFrugata} bollini.`)
 
 const secondaFrugata = prompt('Ora vedi un po nella borsa. Quanti bollini Coop hai trovato?','3');
 bolliniCoop.push(secondaFrugata);
-console.log(`Un classico, ecco ${primaFrugata} bollini.`)
+console.log(`Un classico, ecco ${secondaFrugata} bollini.`)
 
 
 
