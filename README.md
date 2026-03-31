@@ -4,7 +4,7 @@ Alcuni esercizi per impratichirci con Javascript.
 
 # Consegna
 
-Dato un array, fai in modo di trovare attraverso un for un valore specificato dall'utente. Restituisci come risposta un alert o console.log che dica se il valore esiste o meno
+Dato un array, fai in modo di trovare attraverso un for un valore specificato dall'utente. Restituisci come risposta un alert o console.log che dica se il valore esiste o meno 
 
 Dato un array, fai in modo di trovare attraverso un for un valore specificato dall'utente. Restituisci come risposta un alert o console.log che dica l'indice dell'elemento
 
