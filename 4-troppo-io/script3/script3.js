@@ -14,10 +14,13 @@ function friendMatcher (firstFriend, secondFriend) {
     for (let i = 0; i < firstFriend.length; i++) {
         // variabile di supporto per identificare la feature del giro
         const currentFeature = firstFriend[i];
-        if (secondFriend.contains(currentFeature) === true) {
+        if (secondFriend.includes(currentFeature) === true) {
             commonFeatures.push(currentFeature);
         }
     }
     return commonFeatures;
 }
+
+const aspettiInComune = friendMatcher(amicaUno,amicaDue);
+console.log(aspettiInComune);
 
