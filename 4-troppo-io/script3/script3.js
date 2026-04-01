@@ -15,8 +15,9 @@ function friendMatcher (firstFriend, secondFriend) {
         // variabile di supporto per identificare la feature del giro
         const currentFeature = firstFriend[i];
         if (secondFriend.contains(currentFeature) === true) {
-
+            commonFeatures.push(currentFeature);
         }
-
     }
+    return commonFeatures;
 }
+
