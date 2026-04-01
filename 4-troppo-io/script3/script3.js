@@ -3,7 +3,7 @@
 
 // dichiaro i due array da confrontare
 const amicaUno = ['simpatica', 'brava a cucinare', 'sa cantare', 'crede negli oroscopi', 'usa il Dyson per i capelli', 'parla il tedesco'];
-const amicaDue = ['permalosa', 'ama il cioccolato', 'crede negli oroscopi', 'va in palestra', 'sa cantare'];
+const amicaDue = ['permalosa', 'ama il cioccolato', 'crede negli oroscopi', 'va in palestra', 'sa cantare', 'brava a cucinare'];
 
 
 
