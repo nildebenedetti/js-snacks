@@ -8,7 +8,10 @@ function friendMatcher (firstFriend, secondFriend) {
     // ciclo for per far scorrere il primo array
     for (let i = 0; i < firstFriend.length; i++) {
         // variabile di supporto per identificare la feature del giro
-        const currentFeatures = firstFriend[i];
+        const currentFeature = firstFriend[i];
+        if (secondFriend.contains(currentFeature) === true) {
+            
+        }
 
     }
 }
